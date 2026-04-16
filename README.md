@@ -1,5 +1,5 @@
 # 🌍 Nexura - Market Expansion Framework
-Azienda: Nexura (GreenTech B2B Solutions)
+Azienda: Nexura (B2B Solutions)
 
 Settore: Transizione Energetica, Efficienza per le PMI, Smart Grid
 
