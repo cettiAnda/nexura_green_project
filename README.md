@@ -8,13 +8,13 @@ Oggetto del Report: Analisi del posizionamento, criticità di mercato e traietto
 Executive Summary: Questo repository ospita il framework dati (SQL) e l'analisi strategica sviluppata per guidare l'espansione internazionale di Nexura. L'obiettivo è dimostrare come l'ingegneria dei dati possa essere tradotta in strategie aziendali concrete, superando le logiche di espansione puramente intuitive a favore di un approccio rigorosamente data-driven.
 
 # 1. Il Problema
-Nonostante l'enorme potenziale del mercato europeo per la transizione ecologica, Nexura si scontra con la frammentazione del panorama energetico. L'espansione internazionale è attualmente ostacolata da tre fattori critici:
+Il mercato europeo dell'energia verde è enorme, ma è un vero e proprio "labirinto". Nexura vuole vendere le sue tecnologie in nuovi paesi, ma al momento l'espansione è bloccata da tre grandi ostacoli:
 
- - Asimmetria Normativa e Fiscale: Ogni nazione europea ha un proprio sistema di incentivi (es. KfW in Germania vs. Transizione 5.0 in Italia),   rendendo impossibile un approccio one-size-fits-all (una soluzione unica per tutti i mercati).
+ - Regole e bonus tutti diversi: Ogni nazione ha le sue leggi e i suoi incentivi statali per chi passa al "green" (l'Italia ha regole diverse dalla Germania, e così via). Questo significa che Nexura non può usare la stessa offerta commerciale per tutti i paesi.
 
- - Volatilità del ROI per i Clienti B2B: Il costo dell'energia (EUR/kWh) e l'impatto della Carbon Tax variano drasticamente da paese a paese. Senza dati precisi e localizzati, Nexura fatica a dimostrare alle PMI in quanto tempo rientreranno dell'investimento (Payback Period).
+ - È difficile dimostrare il vero risparmio ai clienti: Il costo della bolletta elettrica cambia drasticamente da una nazione all'altra. Senza avere tutti questi dati sottomano, per Nexura è quasi impossibile spiegare a un'azienda cliente dopo quanti anni riuscirà a recuperare i soldi spesi per acquistare i nostri impianti.
 
- - Rischio di Ingresso in Mercati Saturi o Ostili: Entrare in un mercato caratterizzato da alta burocrazia o privo di partner strategici locali rischia di bruciare il budget di espansione (CAPEX) senza generare la trazione necessaria.
+ - Il rischio di sprecare soldi: Entrare "alla cieca" in un mercato con troppa burocrazia, o dove non si hanno aziende amiche con cui collaborare, è molto pericoloso. Si rischia di spendere quasi tutto il budget per aprire l'attività, senza poi riuscire a vendere nulla.
 
 # 2. Le Esigenze (The Needs)
 Per scalare efficacemente e mitigare i rischi di investimento, l'azienda necessita di un cambio di paradigma. Nello specifico, Nexura ha bisogno di:
