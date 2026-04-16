@@ -7,7 +7,7 @@ Oggetto del Report: Analisi del posizionamento, criticità di mercato e traietto
 
 Executive Summary: Questo repository ospita il framework dati (SQL) e l'analisi strategica sviluppata per guidare l'espansione internazionale di Nexura. L'obiettivo è dimostrare come l'ingegneria dei dati possa essere tradotta in strategie aziendali concrete, superando le logiche di espansione puramente intuitive a favore di un approccio rigorosamente data-driven.
 
-# 1. Il Problema (The Pain Point)
+# 1. Il Problema
 Nonostante l'enorme potenziale del mercato europeo per la transizione ecologica, Nexura si scontra con la frammentazione del panorama energetico. L'espansione internazionale è attualmente ostacolata da tre fattori critici:
 
 Asimmetria Normativa e Fiscale: Ogni nazione europea ha un proprio sistema di incentivi (es. KfW in Germania vs. Transizione 5.0 in Italia), rendendo impossibile un approccio one-size-fits-all (una soluzione unica per tutti i mercati).
@@ -25,7 +25,7 @@ Proposizioni di Valore Localizzate: La forza vendita deve disporre di dati finan
 
 Ecosistema di Partnership: È essenziale mappare e attivare alleanze con giganti locali (es. Siemens Energy in Germania o National Grid nel Regno Unito) per superare agevolmente le barriere d'ingresso infrastrutturali.
 
-# 3. Gli Obiettivi (The Objectives)
+# 3. Gli Obiettivi
 Attraverso l'adozione di questo framework di analisi dati, i vertici di Nexura possono puntare ai seguenti traguardi a medio-lungo termine:
 
 Ottimizzazione del Go-To-Market (Obiettivo Commerciale): Identificare i 3 mercati europei con il miglior rapporto tra incentivi statali e alti costi dell'energia tradizionale, concentrando in quelle aree il 70% del budget di marketing e sviluppo per massimizzare il ROI iniziale.
