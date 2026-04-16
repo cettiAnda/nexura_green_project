@@ -10,11 +10,11 @@ Executive Summary: Questo repository ospita il framework dati (SQL) e l'analisi 
 # 1. Il Problema
 Nonostante l'enorme potenziale del mercato europeo per la transizione ecologica, Nexura si scontra con la frammentazione del panorama energetico. L'espansione internazionale è attualmente ostacolata da tre fattori critici:
 
-Asimmetria Normativa e Fiscale: Ogni nazione europea ha un proprio sistema di incentivi (es. KfW in Germania vs. Transizione 5.0 in Italia), rendendo impossibile un approccio one-size-fits-all (una soluzione unica per tutti i mercati).
+ - Asimmetria Normativa e Fiscale: Ogni nazione europea ha un proprio sistema di incentivi (es. KfW in Germania vs. Transizione 5.0 in Italia),   rendendo impossibile un approccio one-size-fits-all (una soluzione unica per tutti i mercati).
 
-Volatilità del ROI per i Clienti B2B: Il costo dell'energia (EUR/kWh) e l'impatto della Carbon Tax variano drasticamente da paese a paese. Senza dati precisi e localizzati, Nexura fatica a dimostrare alle PMI in quanto tempo rientreranno dell'investimento (Payback Period).
+ - Volatilità del ROI per i Clienti B2B: Il costo dell'energia (EUR/kWh) e l'impatto della Carbon Tax variano drasticamente da paese a paese. Senza dati precisi e localizzati, Nexura fatica a dimostrare alle PMI in quanto tempo rientreranno dell'investimento (Payback Period).
 
-Rischio di Ingresso in Mercati Saturi o Ostili: Entrare in un mercato caratterizzato da alta burocrazia o privo di partner strategici locali rischia di bruciare il budget di espansione (CAPEX) senza generare la trazione necessaria.
+ - Rischio di Ingresso in Mercati Saturi o Ostili: Entrare in un mercato caratterizzato da alta burocrazia o privo di partner strategici locali rischia di bruciare il budget di espansione (CAPEX) senza generare la trazione necessaria.
 
 # 2. Le Esigenze (The Needs)
 Per scalare efficacemente e mitigare i rischi di investimento, l'azienda necessita di un cambio di paradigma. Nello specifico, Nexura ha bisogno di:
