@@ -19,17 +19,17 @@ Il mercato europeo dell'energia verde è enorme, ma è un vero e proprio "labiri
 # 2. Le Esigenze (The Needs)
 Per scalare efficacemente e mitigare i rischi di investimento, l'azienda necessita di un cambio di paradigma. Nello specifico, Nexura ha bisogno di:
 
-Market Intelligence Centralizzata: Un framework (come il database SQL qui sviluppato) in grado di incrociare in tempo reale il costo dell'energia, gli incentivi statali e l'indice di "facilità di fare impresa", generando così una classifica oggettiva dei mercati prioritari.
+ - Market Intelligence Centralizzata: Un framework (come il database SQL qui sviluppato) in grado di incrociare in tempo reale il costo dell'energia, gli incentivi statali e l'indice di "facilità di fare impresa", generando così una classifica oggettiva dei mercati prioritari.
 
-Proposizioni di Valore Localizzate: La forza vendita deve disporre di dati finanziari specifici (OPEX, CAPEX, Tasso Interno di Rendimento) per dimostrare matematicamente ai clienti B2B il reale vantaggio economico delle soluzioni Nexura nel loro specifico paese.
+ - Proposizioni di Valore Localizzate: La forza vendita deve disporre di dati finanziari specifici (OPEX, CAPEX, Tasso Interno di Rendimento) per dimostrare matematicamente ai clienti B2B il reale vantaggio economico delle soluzioni Nexura nel loro specifico paese.
 
-Ecosistema di Partnership: È essenziale mappare e attivare alleanze con giganti locali (es. Siemens Energy in Germania o National Grid nel Regno Unito) per superare agevolmente le barriere d'ingresso infrastrutturali.
+ - Ecosistema di Partnership: È essenziale mappare e attivare alleanze con giganti locali (es. Siemens Energy in Germania o National Grid nel Regno Unito) per superare agevolmente le barriere d'ingresso infrastrutturali.
 
 # 3. Gli Obiettivi
 Attraverso l'adozione di questo framework di analisi dati, i vertici di Nexura possono puntare ai seguenti traguardi a medio-lungo termine:
 
-Ottimizzazione del Go-To-Market (Obiettivo Commerciale): Identificare i 3 mercati europei con il miglior rapporto tra incentivi statali e alti costi dell'energia tradizionale, concentrando in quelle aree il 70% del budget di marketing e sviluppo per massimizzare il ROI iniziale.
+ - Ottimizzazione del Go-To-Market (Obiettivo Commerciale): Identificare i 3 mercati europei con il miglior rapporto tra incentivi statali e alti costi dell'energia tradizionale, concentrando in quelle aree il 70% del budget di marketing e sviluppo per massimizzare il ROI iniziale.
 
-Accelerazione del Payback Period (Obiettivo Finanziario): Sfruttare le insight sui sussidi locali per ingegnerizzare offerte finanziarie capaci di garantire ai clienti B2B un rientro dell'investimento in meno di 4,5 anni.
+ - Accelerazione del Payback Period (Obiettivo Finanziario): Sfruttare le insight sui sussidi locali per ingegnerizzare offerte finanziarie capaci di garantire ai clienti B2B un rientro dell'investimento in meno di 4,5 anni.
 
-Leadership ESG (Obiettivo di Posizionamento): Tracciare metriche precise e inconfutabili (es. tonnellate di CO₂ e litri d'acqua risparmiati per ogni kWp installato) per posizionare Nexura non come semplice fornitore di hardware/software, ma come partner strategico fondamentale per il bilancio di sostenibilità delle aziende clienti.
+ - Leadership ESG (Obiettivo di Posizionamento): Tracciare metriche precise e inconfutabili (es. tonnellate di CO₂ e litri d'acqua risparmiati per ogni kWp installato) per posizionare Nexura non come semplice fornitore di hardware/software, ma come partner strategico fondamentale per il bilancio di sostenibilità delle aziende clienti.
