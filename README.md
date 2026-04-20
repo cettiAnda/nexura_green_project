@@ -1,7 +1,7 @@
 # 🌍 Nexura: European Market Expansion Strategy
 
 ## Business Case
-Nexura GreenTech, azienda B2B nel settore della transizione energetica, sta pianificando l'espansione in Europa. L'obiettivo di questo progetto è costruire un'architettura relazionale (SQL) per identificare i mercati ad alto potenziale per le PMI, incrociando dati macroeconomici e leve finanziarie locali.
+Nexura, azienda B2B nel settore della transizione energetica, sta pianificando l'espansione in Europa. L'obiettivo di questo progetto è costruire un'architettura relazionale (SQL) per identificare i mercati ad alto potenziale per le PMI, incrociando dati macroeconomici e leve finanziarie locali.
 
 ## Architettura Dati e Metodologia
 Il database relazionale è strutturato per isolare la misurazione quantitativa dalle tattiche qualitative:
