@@ -1,4 +1,4 @@
-# 🌍 Nexura GreenTech: European Market Expansion Strategy
+# 🌍 Nexura: European Market Expansion Strategy
 
 ## Business Case
 Nexura GreenTech, azienda B2B nel settore della transizione energetica, sta pianificando l'espansione in Europa. L'obiettivo di questo progetto è costruire un'architettura relazionale (SQL) per identificare i mercati ad alto potenziale per le PMI, incrociando dati macroeconomici e leve finanziarie locali.
